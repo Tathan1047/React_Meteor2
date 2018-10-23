@@ -1,0 +1,12 @@
+.employee-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color:lightgray;
+}
+
+.thumbnail{
+  width: 300px;
+  border-color: brown;
+  box-shadow: black;
+}
